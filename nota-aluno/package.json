@@ -17,5 +17,18 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "private": true,
+  "name": "nota-aluno",
+  "version": "1.0.0",
+  "description": "Sistema para gerenciar notas dos alunos",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusBarbosaDeAndrade/nota-aluno.git"
+  },
+  "author": "Matheus Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusBarbosaDeAndrade/nota-aluno/issues"
+  },
+  "homepage": "https://github.com/MatheusBarbosaDeAndrade/nota-aluno#readme"
 }
