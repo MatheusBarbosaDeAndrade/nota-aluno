@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "nota-aluno",
+    "name": "Nota Aluno",
     "slug": "nota-aluno",
     "version": "1.0.0",
+    "bundleIdentifier": "com.seunome.notaaluno",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
